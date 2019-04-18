@@ -5305,8 +5305,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.68854167"
-     inkscape:cx="1192.3752"
-     inkscape:cy="540"
+     inkscape:cx="985.99843"
+     inkscape:cy="425.84176"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5319,8 +5319,8 @@
      units="px"
      inkscape:lockguides="true">
     <inkscape:grid
-       id="grid4998"
-       type="xygrid" />
+       type="xygrid"
+       id="grid4998" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -5953,15 +5953,15 @@
          sodipodi:role="line">FTE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="149.54539"
-       y="24.473465"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="76.96344"
+       y="27.119301"
        id="text17356"><tspan
          sodipodi:role="line"
          id="tspan17354"
-         x="149.54539"
-         y="24.473465"
-         style="stroke-width:0.26458332">On Ramp to Open Source Hiring at Twitter</tspan></text>
+         x="76.96344"
+         y="27.119301"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.63888931px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">On Ramp to Open Source Hiring at Twitter</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.37312031px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.31399199"
@@ -6083,7 +6083,7 @@
     <g
        id="layer1-4"
        inkscape:label="Layer 1"
-       transform="matrix(0.3721479,0,0,0.3721479,458.48866,61.329384)">
+       transform="matrix(0.3721479,0,0,0.3721479,458.48866,87.787719)">
       <g
          inkscape:export-ydpi="300.23013"
          inkscape:export-xdpi="300.23013"
@@ -6206,12 +6206,12 @@
        style="opacity:0.56699997;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text25318"
-       y="64.49704"
+       y="90.95536"
        x="395.50543"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2193626"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2193626"
-         y="64.49704"
+         y="90.95536"
          x="395.50543"
          id="tspan25316"
          sodipodi:role="line">github.com/twitter/ossdecks</tspan></text>
@@ -6398,7 +6398,7 @@
        y="49.157425" />
     <g
        id="g48937"
-       transform="matrix(0.3214849,0,0,0.3214849,311.81852,70.180238)">
+       transform="matrix(0.3214849,0,0,0.3214849,311.81852,96.638573)">
       <rect
          y="-170.32658"
          x="261.04221"
@@ -6425,12 +6425,12 @@
        y="13.90162" />
     <text
        id="text6304"
-       y="76.438896"
+       y="102.89722"
        x="395.51389"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2193626"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2193626"
-         y="76.438896"
+         y="102.89722"
          x="395.51389"
          id="tspan6302"
          sodipodi:role="line">@Remy_D  |  @TwitterOSS</tspan></text>
@@ -6447,24 +6447,24 @@
          sodipodi:role="line" /></text>
     <text
        id="text6320"
-       y="70.436142"
+       y="96.894463"
        x="395.50543"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2193626"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2193626"
-         y="70.436142"
+         y="96.894463"
          x="395.50543"
          id="tspan6318"
          sodipodi:role="line">opensource@twitter.com</tspan></text>
     <rect
-       y="12.682644"
+       y="39.140976"
        x="393.29834"
        height="67.64254"
        width="112.15445"
        id="rect6322"
        style="opacity:0.56699997;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:1.10819948;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       transform="matrix(0.17762814,0,0,0.17762814,444.44583,-1.2609291)"
+       transform="matrix(0.17762814,0,0,0.17762814,444.44583,25.197405)"
        id="g6891">
       <rect
          style="fill:none"
@@ -9469,19 +9469,19 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:title="#TAG"
      ns1:refid="rect47488" />
   <ns1:frame
-     ns1:refid="rect25336"
-     ns1:title="OSSCapstones"
-     ns1:sequence="14"
-     ns1:hide="true"
-     ns1:clip="true"
-     ns1:show-in-frame-list="true"
-     ns1:timeout-enable="false"
-     ns1:timeout-ms="5000.0"
-     ns1:transition-duration-ms="1000.0"
-     ns1:transition-zoom-percent="0.0"
-     ns1:transition-profile="linear"
+     id="frame5390"
      ns1:transition-path-hide="true"
-     id="frame5390" />
+     ns1:transition-profile="linear"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:show-in-frame-list="true"
+     ns1:clip="true"
+     ns1:hide="false"
+     ns1:sequence="14"
+     ns1:title="OSSCapstones"
+     ns1:refid="rect25336" />
   <ns1:frame
      id="frame5308"
      ns1:transition-path-hide="true"
