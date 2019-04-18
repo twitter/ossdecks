@@ -5377,12 +5377,12 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31749597">@GoogleOSS</tspan></text>
     <text
        id="text17252"
-       y="262.64001"
+       y="269.5192"
        x="147.87073"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.8611846px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17017046"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.8611846px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17017046"
-         y="262.64001"
+         y="269.5192"
          x="147.87073"
          id="tspan17250"
          sodipodi:role="line">@codeorg</tspan></text>
@@ -5759,14 +5759,14 @@
     <text
        id="text17272"
        y="209.92921"
-       x="184.16858"
+       x="179.40614"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.8611846px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749597"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.8611846px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31749597"
          y="209.92921"
-         x="184.16858"
+         x="179.40614"
          id="tspan17270"
-         sodipodi:role="line">@mlh.io</tspan></text>
+         sodipodi:role="line">@MLHacks</tspan></text>
     <text
        id="text17280"
        y="119.92321"
@@ -6065,7 +6065,7 @@
        width="4.0276022"
        height="4.0276022"
        x="159.31862"
-       y="271.71973" />
+       y="255.84474" />
     <text
        id="text17452"
        y="268.14706"
@@ -6525,6 +6525,13 @@
        height="4.0276022"
        x="259.79507"
        y="121.95934" />
+    <rect
+       y="216.6864"
+       x="159.31862"
+       height="4.0276022"
+       width="4.0276022"
+       id="rect9339"
+       style="opacity:0.51099997;fill:#1ca2f1;fill-opacity:1;fill-rule:nonzero;stroke:#1da1f2;stroke-width:1.18674147;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <script
      ns1:version="13.11-30213629"
