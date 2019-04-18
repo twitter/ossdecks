@@ -5301,9 +5301,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9474899"
-     inkscape:cx="1725.6786"
-     inkscape:cy="89.968227"
+     inkscape:zoom="0.68854167"
+     inkscape:cx="960"
+     inkscape:cy="540"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -9463,8 +9463,9 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="14"
-     ns1:title="t.co/University" />
+     ns1:sequence="15"
+     ns1:title="t.co/university"
+     ns1:refid="rect47476" />
   <ns1:frame
      id="frame5321"
      ns1:transition-path-hide="true"
@@ -9493,19 +9494,19 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:sequence="23"
      ns1:title="#TAG" />
   <ns1:frame
-     id="frame5390"
-     ns1:transition-path-hide="true"
-     ns1:transition-profile="linear"
-     ns1:transition-zoom-percent="0.0"
-     ns1:transition-duration-ms="1000.0"
-     ns1:timeout-ms="5000.0"
-     ns1:timeout-enable="false"
-     ns1:show-in-frame-list="true"
-     ns1:clip="true"
-     ns1:hide="true"
-     ns1:sequence="15"
+     ns1:refid="rect25336"
      ns1:title="OSSCapstones"
-     ns1:refid="rect25336" />
+     ns1:sequence="14"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:show-in-frame-list="true"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="linear"
+     ns1:transition-path-hide="true"
+     id="frame5390" />
   <ns1:frame
      id="frame5308"
      ns1:transition-path-hide="true"
