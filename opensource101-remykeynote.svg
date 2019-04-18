@@ -5305,8 +5305,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.68854167"
-     inkscape:cx="985.99843"
-     inkscape:cy="425.84176"
+     inkscape:cx="1392.655"
+     inkscape:cy="399.0648"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5342,18 +5342,18 @@
     <path
        inkscape:connector-curvature="0"
        id="path17420"
-       d="M 92.624812,154.74596 H 445.50663"
-       style="opacity:0.51099997;fill:none;stroke:#000000;stroke-width:0.31448647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.51589186, 2.51589186;stroke-dashoffset:0;stroke-opacity:1" />
+       d="M 94.821816,154.74596 H 388.63522"
+       style="opacity:0.51099997;fill:none;stroke:#000000;stroke-width:0.28696117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.29568942, 2.29568942;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       style="opacity:0.51099997;fill:none;stroke:#000000;stroke-width:0.31448647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.51589186, 2.51589186;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 92.624812,79.588554 H 445.50663"
+       style="opacity:0.51099997;fill:none;stroke:#000000;stroke-width:0.28696117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.29568942, 2.29568942;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 94.821816,79.588554 H 388.63522"
        id="path17422"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path17424"
-       d="M 92.624812,212.09322 H 445.50663"
-       style="opacity:0.51099997;fill:none;stroke:#000000;stroke-width:0.31448647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.51589186, 2.51589186;stroke-dashoffset:0;stroke-opacity:1" />
+       d="M 94.821816,212.09322 H 388.63522"
+       style="opacity:0.51099997;fill:none;stroke:#000000;stroke-width:0.28696117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.29568942, 2.29568942;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        transform="matrix(1,0,0,-1,-5.1416005e-7,1115.4047)"
        id="g6777" />
@@ -6083,7 +6083,7 @@
     <g
        id="layer1-4"
        inkscape:label="Layer 1"
-       transform="matrix(0.3721479,0,0,0.3721479,458.48866,87.787719)">
+       transform="matrix(0.3721479,0,0,0.3721479,458.48866,277.75866)">
       <g
          inkscape:export-ydpi="300.23013"
          inkscape:export-xdpi="300.23013"
@@ -6206,12 +6206,12 @@
        style="opacity:0.56699997;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text25318"
-       y="90.95536"
+       y="280.92624"
        x="395.50543"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2193626"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2193626"
-         y="90.95536"
+         y="280.92624"
          x="395.50543"
          id="tspan25316"
          sodipodi:role="line">github.com/twitter/ossdecks</tspan></text>
@@ -6398,7 +6398,7 @@
        y="49.157425" />
     <g
        id="g48937"
-       transform="matrix(0.3214849,0,0,0.3214849,311.81852,96.638573)">
+       transform="matrix(0.3214849,0,0,0.3214849,311.81852,286.60952)">
       <rect
          y="-170.32658"
          x="261.04221"
@@ -6425,12 +6425,12 @@
        y="13.90162" />
     <text
        id="text6304"
-       y="102.89722"
+       y="292.86807"
        x="395.51389"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2193626"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2193626"
-         y="102.89722"
+         y="292.86807"
          x="395.51389"
          id="tspan6302"
          sodipodi:role="line">@Remy_D  |  @TwitterOSS</tspan></text>
@@ -6447,24 +6447,24 @@
          sodipodi:role="line" /></text>
     <text
        id="text6320"
-       y="96.894463"
+       y="286.86536"
        x="395.50543"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2193626"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2193626"
-         y="96.894463"
+         y="286.86536"
          x="395.50543"
          id="tspan6318"
          sodipodi:role="line">opensource@twitter.com</tspan></text>
     <rect
-       y="39.140976"
+       y="229.11189"
        x="393.29834"
        height="67.64254"
        width="112.15445"
        id="rect6322"
        style="opacity:0.56699997;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:1.10819948;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       transform="matrix(0.17762814,0,0,0.17762814,444.44583,25.197405)"
+       transform="matrix(0.17762814,0,0,0.17762814,444.44583,215.16831)"
        id="g6891">
       <rect
          style="fill:none"
