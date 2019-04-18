@@ -18,7 +18,10 @@
    version="1.1"
    viewBox="0 0 508 285.75"
    height="1080"
-   width="1920">
+   width="1920"
+   inkscape:export-filename="/home/decause/inkscapes/opensource101-remykeynote.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <pattern
@@ -5302,7 +5305,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.68854167"
-     inkscape:cx="960"
+     inkscape:cx="1192.3752"
      inkscape:cy="540"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -5958,7 +5961,7 @@
          id="tspan17354"
          x="149.54539"
          y="24.473465"
-         style="stroke-width:0.26458332">On ramp to Open Source Hiring at Twitter</tspan></text>
+         style="stroke-width:0.26458332">On Ramp to Open Source Hiring at Twitter</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.37312031px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.31399199"
@@ -6078,27 +6081,9 @@
          sodipodi:role="line"
          id="tspan17454">@Hacktoberfest</tspan></text>
     <g
-       id="g20143"
-       transform="matrix(0.1335172,0,0,0.1335172,454.62131,9.2235992)">
-      <rect
-         id="rect20131"
-         height="400"
-         width="400"
-         class="cls-1"
-         x="0"
-         y="0"
-         style="fill:none" />
-      <path
-         id="path20133"
-         d="m 153.62,301.59 c 94.34,0 145.94,-78.16 145.94,-145.94 0,-2.22 0,-4.43 -0.15,-6.63 A 104.36,104.36 0 0 0 325,122.47 102.38,102.38 0 0 1 295.54,130.54 51.47,51.47 0 0 0 318.09,102.17 102.79,102.79 0 0 1 285.52,114.62 51.34,51.34 0 0 0 198.11,161.4 145.62,145.62 0 0 1 92.4,107.81 51.33,51.33 0 0 0 108.28,176.28 50.91,50.91 0 0 1 85,169.86 c 0,0.21 0,0.43 0,0.65 a 51.31,51.31 0 0 0 41.15,50.28 51.21,51.21 0 0 1 -23.16,0.88 51.35,51.35 0 0 0 47.92,35.62 102.92,102.92 0 0 1 -63.7,22 104.41,104.41 0 0 1 -12.21,-0.74 145.21,145.21 0 0 0 78.62,23"
-         class="cls-2"
-         inkscape:connector-curvature="0"
-         style="fill:#1da1f2" />
-    </g>
-    <g
        id="layer1-4"
        inkscape:label="Layer 1"
-       transform="matrix(0.3721479,0,0,0.3721479,458.48866,278.28783)">
+       transform="matrix(0.3721479,0,0,0.3721479,458.48866,61.329384)">
       <g
          inkscape:export-ydpi="300.23013"
          inkscape:export-xdpi="300.23013"
@@ -6221,12 +6206,12 @@
        style="opacity:0.56699997;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text25318"
-       y="281.45541"
+       y="64.49704"
        x="395.50543"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2193626"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2193626"
-         y="281.45541"
+         y="64.49704"
          x="395.50543"
          id="tspan25316"
          sodipodi:role="line">github.com/twitter/ossdecks</tspan></text>
@@ -6413,7 +6398,7 @@
        y="49.157425" />
     <g
        id="g48937"
-       transform="matrix(0.3214849,0,0,0.3214849,311.81852,287.13869)">
+       transform="matrix(0.3214849,0,0,0.3214849,311.81852,70.180238)">
       <rect
          y="-170.32658"
          x="261.04221"
@@ -6431,32 +6416,21 @@
          x="270.9231"
          y="-171.93253" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.8611846px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749597"
-       x="424.33182"
-       y="55.016068"
-       id="text48941"><tspan
-         sodipodi:role="line"
-         id="tspan48939"
-         x="424.33182"
-         y="55.016068"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31749597">Thank You</tspan></text>
     <rect
-       style="opacity:0.56699997;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.56699997;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.5045132;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3556"
        width="385.54004"
-       height="267.31583"
+       height="272.16339"
        x="4.9082699"
-       y="18.74918" />
+       y="13.90162" />
     <text
        id="text6304"
-       y="293.39725"
+       y="76.438896"
        x="395.51389"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2193626"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2193626"
-         y="293.39725"
+         y="76.438896"
          x="395.51389"
          id="tspan6302"
          sodipodi:role="line">@Remy_D  |  @TwitterOSS</tspan></text>
@@ -6473,24 +6447,24 @@
          sodipodi:role="line" /></text>
     <text
        id="text6320"
-       y="287.39453"
+       y="70.436142"
        x="395.50543"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2193626"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2193626"
-         y="287.39453"
+         y="70.436142"
          x="395.50543"
          id="tspan6318"
          sodipodi:role="line">opensource@twitter.com</tspan></text>
     <rect
-       y="219.4157"
-       x="393.30301"
-       height="77.863228"
-       width="114.06645"
+       y="12.682644"
+       x="393.29834"
+       height="67.64254"
+       width="112.15445"
        id="rect6322"
-       style="opacity:0.56699997;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:1.19907105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.56699997;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:1.10819948;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       transform="matrix(0.17762814,0,0,0.17762814,444.44583,215.69748)"
+       transform="matrix(0.17762814,0,0,0.17762814,444.44583,-1.2609291)"
        id="g6891">
       <rect
          style="fill:none"
@@ -6507,17 +6481,6 @@
          d="m 153.62,301.59 c 94.34,0 145.94,-78.16 145.94,-145.94 0,-2.22 0,-4.43 -0.15,-6.63 A 104.36,104.36 0 0 0 325,122.47 102.38,102.38 0 0 1 295.54,130.54 51.47,51.47 0 0 0 318.09,102.17 102.79,102.79 0 0 1 285.52,114.62 51.34,51.34 0 0 0 198.11,161.4 145.62,145.62 0 0 1 92.4,107.81 51.33,51.33 0 0 0 108.28,176.28 50.91,50.91 0 0 1 85,169.86 c 0,0.21 0,0.43 0,0.65 a 51.31,51.31 0 0 0 41.15,50.28 51.21,51.21 0 0 1 -23.16,0.88 51.35,51.35 0 0 0 47.92,35.62 102.92,102.92 0 0 1 -63.7,22 104.41,104.41 0 0 1 -12.21,-0.74 145.21,145.21 0 0 0 78.62,23"
          id="path6889" />
     </g>
-    <text
-       id="text6895"
-       y="224.83237"
-       x="393.86426"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.14617825px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12865445"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.12865445"
-         y="224.83237"
-         x="393.86426"
-         id="tspan6893"
-         sodipodi:role="line">On ramp to Open Source Hiring at Twitter</tspan></text>
     <rect
        style="opacity:0.51099997;fill:#1ca2f1;fill-opacity:1;fill-rule:nonzero;stroke:#1da1f2;stroke-width:1.18674147;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8227"
@@ -9349,7 +9312,8 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:clip="true"
      ns1:hide="true"
      ns1:sequence="19"
-     ns1:title="#OSS-Rotations" />
+     ns1:title="#OSS-Rotations"
+     ns1:refid="rect17180" />
   <ns1:frame
      id="frame5521"
      ns1:transition-path-hide="true"
@@ -9362,7 +9326,8 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:clip="true"
      ns1:hide="true"
      ns1:sequence="22"
-     ns1:title="Branch-in" />
+     ns1:title="Branch-in"
+     ns1:refid="rect47486" />
   <ns1:frame
      id="frame5335"
      ns1:transition-path-hide="true"
@@ -9389,7 +9354,8 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:clip="true"
      ns1:hide="true"
      ns1:sequence="20"
-     ns1:title="Hackweek" />
+     ns1:title="Hackweek"
+     ns1:refid="rect47478" />
   <ns1:frame
      id="frame5346"
      ns1:transition-path-hide="true"
@@ -9430,7 +9396,8 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:clip="true"
      ns1:hide="true"
      ns1:sequence="21"
-     ns1:title="BRGs" />
+     ns1:title="BRGs"
+     ns1:refid="rect47482" />
   <ns1:frame
      id="frame5355"
      ns1:transition-path-hide="true"
@@ -9499,7 +9466,8 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:clip="true"
      ns1:hide="true"
      ns1:sequence="23"
-     ns1:title="#TAG" />
+     ns1:title="#TAG"
+     ns1:refid="rect47488" />
   <ns1:frame
      ns1:refid="rect25336"
      ns1:title="OSSCapstones"
@@ -9540,7 +9508,8 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:clip="true"
      ns1:hide="true"
      ns1:sequence="24"
-     ns1:title="TWIG" />
+     ns1:title="TWIG"
+     ns1:refid="rect47492" />
   <ns1:frame
      ns1:refid="rect45869"
      id="frame5406"
@@ -9567,7 +9536,8 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:clip="true"
      ns1:hide="true"
      ns1:sequence="25"
-     ns1:title="NHO" />
+     ns1:title="NHO"
+     ns1:refid="rect47480" />
   <ns1:frame
      ns1:title="HacktoberFest"
      ns1:sequence="7"
@@ -9638,4 +9608,32 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:transition-profile="linear"
      ns1:transition-path-hide="true"
      id="frame9635" />
+  <ns1:frame
+     ns1:refid="rect47492"
+     ns1:title="senior overview"
+     ns1:sequence="26"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:show-in-frame-list="true"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="linear"
+     ns1:transition-path-hide="true"
+     id="frame6335" />
+  <ns1:frame
+     id="frame6365"
+     ns1:transition-path-hide="true"
+     ns1:transition-profile="linear"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:show-in-frame-list="true"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:sequence="27"
+     ns1:title="Overview"
+     ns1:refid="rect17120" />
 </svg>
